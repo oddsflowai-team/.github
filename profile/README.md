@@ -19,5 +19,10 @@ No hype. Just logs.
 - Substack: https://substack.com/@oddsflowai
 - Kaggle: https://www.kaggle.com/oddsflow
 
+## Research notes / writing
+- Medium: https://medium.com/@oddsflow.ai
+- Substack: https://oddsflowai.substack.com
+- Kaggle: https://www.kaggle.com/oddsflow
+
 ## Why this exists
 OddsFlow AI publishes methodology and verifiable match logs so anyone can audit how signals were generated and how they performed.
