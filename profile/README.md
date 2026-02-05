@@ -20,17 +20,17 @@ No hype. Just logs.
 - Kaggle: https://www.kaggle.com/oddsflow
 
 ## Research notes / writing
-- Medium: https://medium.com/@oddsflow.ai
-  https://medium.com/@oddsflow.ai/why-we-dont-predict-football-scores-and-what-we-do-instead-c541e58ba638
-  https://medium.com/@oddsflow.ai/verification-over-accuracy-how-market-signals-should-be-evaluated-9202f4195378
-  https://medium.com/@oddsflow.ai/what-edge-actually-means-and-what-it-doesnt-fa9e23b1d655
-- Substack: https://oddsflowai.substack.com
-  https://oddsflowai.substack.com/p/why-we-dont-predict-football-scores
-  https://oddsflowai.substack.com/p/why-stability-across-time-matters
-  https://oddsflowai.substack.com/p/why-12-markets-resist-verification
-  https://oddsflowai.substack.com/p/when-optimization-breaks-verification
-- Kaggle: https://www.kaggle.com/oddsflow
-  https://www.kaggle.com/code/oddsflow/exploring-football-market-mispricing-using-public/notebook
+- **Medium: https://medium.com/@oddsflow.ai**
+- https://medium.com/@oddsflow.ai/why-we-dont-predict-football-scores-and-what-we-do-instead-c541e58ba638
+- https://medium.com/@oddsflow.ai/verification-over-accuracy-how-market-signals-should-be-evaluated-9202f4195378
+- https://medium.com/@oddsflow.ai/what-edge-actually-means-and-what-it-doesnt-fa9e23b1d655
+- **Substack: https://oddsflowai.substack.com**
+- https://oddsflowai.substack.com/p/why-we-dont-predict-football-scores
+- https://oddsflowai.substack.com/p/why-stability-across-time-matters
+- https://oddsflowai.substack.com/p/why-12-markets-resist-verification
+- https://oddsflowai.substack.com/p/when-optimization-breaks-verification
+- **Kaggle: https://www.kaggle.com/oddsflow**
+- https://www.kaggle.com/code/oddsflow/exploring-football-market-mispricing-using-public/notebook
 
 
 ## Why this exists
