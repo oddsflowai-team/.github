@@ -30,8 +30,8 @@ No hype. Just logs.
 - https://oddsflowai.substack.com/p/why-12-markets-resist-verification
 - https://oddsflowai.substack.com/p/when-optimization-breaks-verification
 - **Kaggle: https://www.kaggle.com/oddsflow**
-- https://www.kaggle.com/code/oddsflow/exploring-football-market-mispricing-using-public/notebook
-
+- https://www.kaggle.com/code/oddsflow/exploring-football-market-mispricing-using-public
+- https://www.kaggle.com/datasets/oddsflow/oddsflow-ai-signal-log-schema-demo-timestamped
 
 ## Why this exists
 OddsFlow AI publishes methodology and verifiable match logs so anyone can audit how signals were generated and how they performed.
