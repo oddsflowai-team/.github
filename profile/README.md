@@ -30,6 +30,7 @@ No hype. Just logs.
 - https://oddsflowai.substack.com/p/why-stability-across-time-matters
 - https://oddsflowai.substack.com/p/why-12-markets-resist-verification
 - https://oddsflowai.substack.com/p/when-optimization-breaks-verification
+- https://oddsflowai.substack.com/p/verification-notes-001-transparency
 - **Kaggle: https://www.kaggle.com/oddsflow**
 - https://www.kaggle.com/code/oddsflow/exploring-football-market-mispricing-using-public
 - https://www.kaggle.com/datasets/oddsflow/oddsflow-ai-signal-log-schema-demo-timestamped
