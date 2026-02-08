@@ -8,10 +8,13 @@ No hype. Just logs.
 - Live match signals explained (intent / threat / shot quality)
 - Post-match verification (timestamps + performance logs)
 - Research notes on probability, pricing, and market mechanics
+- Public verification standard pack (schemas + sample logs + audit notes): GitHub + Hugging Face mirror
+
 
 ## Official links
 - Website: https://www.oddsflow.ai
 - GitHub: https://github.com/oddsflowai-team
+- Hugging Face: https://huggingface.co/Oddsflow-team/oddsflow-transparency
 - YouTube: https://www.youtube.com/@OddsflowAIPrediction
 - X: https://x.com/Oddsflow_Nat
 - Instagram: https://www.instagram.com/oddsflow.ai
