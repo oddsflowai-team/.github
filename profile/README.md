@@ -29,12 +29,14 @@ No hype. Just logs.
 - https://medium.com/@oddsflow.ai/what-edge-actually-means-and-what-it-doesnt-fa9e23b1d655
 - https://medium.com/@oddsflow.ai/we-answer-the-40-killer-questions-about-oddsflow-ai-no-hype-just-logs-e3a2cb7a3b67
 - https://medium.com/@oddsflow.ai/ai-vs-bookmakers-how-to-read-a-football-league-dashboard-market-vs-model-volatility-edge-151b68319c9a
+- https://medium.com/@oddsflow.ai/ai-predictions-are-cheap-proof-is-rare-inside-the-oddsflow-verification-hub-18881409d447
 - **Substack: https://oddsflowai.substack.com**
 - https://oddsflowai.substack.com/p/why-we-dont-predict-football-scores
 - https://oddsflowai.substack.com/p/why-stability-across-time-matters
 - https://oddsflowai.substack.com/p/why-12-markets-resist-verification
 - https://oddsflowai.substack.com/p/when-optimization-breaks-verification
 - https://oddsflowai.substack.com/p/verification-notes-001-transparency
+
 ## Kaggle (Datasets + Notebooks)
 ### Datasets (public)
 - **OddsFlow Transparency: Schemas & Dashboard** — https://www.kaggle.com/datasets/oddsflow/oddsflow-transparency-pack-v1  
