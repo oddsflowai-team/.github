@@ -28,6 +28,7 @@ No hype. Just logs.
 - https://medium.com/@oddsflow.ai/verification-over-accuracy-how-market-signals-should-be-evaluated-9202f4195378
 - https://medium.com/@oddsflow.ai/what-edge-actually-means-and-what-it-doesnt-fa9e23b1d655
 - https://medium.com/@oddsflow.ai/we-answer-the-40-killer-questions-about-oddsflow-ai-no-hype-just-logs-e3a2cb7a3b67
+- https://medium.com/@oddsflow.ai/ai-vs-bookmakers-how-to-read-a-football-league-dashboard-market-vs-model-volatility-edge-151b68319c9a
 - **Substack: https://oddsflowai.substack.com**
 - https://oddsflowai.substack.com/p/why-we-dont-predict-football-scores
 - https://oddsflowai.substack.com/p/why-stability-across-time-matters
