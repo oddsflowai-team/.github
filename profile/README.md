@@ -133,7 +133,7 @@ GitHub:
 https://github.com/oddsflowai-team
 
 Hugging Face:
-https://huggingface.co/Oddsflow-team/oddsflow-transparency
+https://huggingface.co/Oddsflowai-team/oddsflow-transparency
 
 X:
 https://x.com/Oddsflow_Nat
