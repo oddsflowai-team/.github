@@ -86,9 +86,11 @@ Transparency is infrastructure — not marketing.
 
 ## Core Repositories
 
-- agent-reputation-network — Protocol definitions
-- sportbot-reference-agent — Reference autonomous agent
-- Public verification examples — schemas + logs
+- [oddsflow-partners-platform](https://github.com/oddsflowai-team/oddsflow-partners-platform) — B2B platform documentation, odds intelligence, agentic AI infrastructure, llms.txt
+- [agent-reputation-network](https://github.com/oddsflowai-team/agent-reputation-network) — Protocol definitions
+- [sportbot-reference-agent](https://github.com/oddsflowai-team/sportbot-reference-agent) — Reference autonomous agent
+- [oddsflow-transparency](https://github.com/oddsflowai-team/oddsflow-transparency) — Verification schemas + logs
+- [oddsflow-ai-football-value-signals](https://github.com/oddsflowai-team/oddsflow-ai-football-value-signals) — Open football market analytics
 
 ---
 
