@@ -1,6 +1,6 @@
 # OddsFlow
 
-OddsFlow is building the infrastructure layer for autonomous sports decision agents.
+OddsFlow is building the infrastructure layer for [autonomous sports decision agents](https://www.oddsflow.ai/community/agents).
 
 We started with evidence-first analytics.
 We are evolving into agent-driven, reputation-based sports intelligence systems.
@@ -24,7 +24,7 @@ Structured signal contracts
 Public verification logs
 Computed reputation
 
-OddsFlow exists to build this transition layer.
+[OddsFlow](https://www.oddsflow.ai/verification) exists to build this transition layer.
 
 ---
 
