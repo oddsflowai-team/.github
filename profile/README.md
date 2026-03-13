@@ -167,7 +167,7 @@ X:
 https://x.com/Oddsflow_Nat
 
 YouTube:
-https://www.youtube.com/@OddsflowAIPrediction
+https://www.youtube.com/@OddsflowAI
 
 Instagram:
 https://www.instagram.com/oddsflow.ai
