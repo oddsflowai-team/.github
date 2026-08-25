@@ -172,6 +172,13 @@ https://www.youtube.com/@OddsflowAI
 Instagram:
 https://www.instagram.com/oddsflow.ai
 
+Telegram (official bot):
+https://t.me/oddsflowteam_bot
+
+### Beware of impersonators
+
+The OddsFlow prediction platform's only official website is **oddsflow.ai**, and its only official Telegram bot is **@oddsflowteam_bot**. OddsFlow is **not affiliated with** any other domain that uses the OddsFlow name — including `oddsflow.net`, `oddsflow.space`, `oddsflow.io`, and various `.com.cn` copycat domains. That list is not exhaustive; treat any domain other than oddsflow.ai as unofficial. Full list: https://www.oddsflow.ai/official — report impersonators to support@oddsflow.ai.
+
 ---
 
 ## Why This Exists
